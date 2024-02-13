@@ -1,4 +1,4 @@
-# Irishman Notifications's Javascript SDK
+# ![Irishman Notifications's Javascript SDK](https://raw.githubusercontent.com/irishman-cloud/notify-javascript/master/.github/banner.svg)
 
 Send push notifications and schedule events.
 
