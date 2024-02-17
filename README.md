@@ -1,6 +1,9 @@
 # ![Irishman Notifications's JavaScript SDK](https://raw.githubusercontent.com/irishman-cloud/notify-javascript/master/.github/banner.svg)
 
-Send push notifications and schedule events.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/notify-javascript)](https://github.com/irishman-cloud/notify-javascript)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/notify-javascript)](https://github.com/irishman-cloud/notify-javascript/issues)
+
+<b align="center">Send push notifications and schedule events.</b>
 
 ## Table of Contents
 
